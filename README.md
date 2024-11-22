@@ -140,13 +140,13 @@ Project Link: [https://github.com/Naman-mahi/Patient-Diagnosis-Prediction](https
 ## Screenshots
 
 ### Healthcare Prediction System
-![Healthcare Prediction System](Project%20Images/Analytics%20Dashboard.png)
+![Healthcare Prediction System](Project%20Images/heathcare%20Predication%20System.png)
 
 ### Prediction History
-![Prediction History](Project%20Images/Analytics%20Dashboard.png)
+![Prediction History](Project%20Images/Prediction%20History.png)
 
 ### Common Symptoms Analysis
-![Common Symptoms](Project%20Images/Analytics%20Dashboard.png)
+![Common Symptoms](Project%20Images/Common%20Symptoms.png)
 
 ### Analytics Dashboard
 ![Analytics Dashboard](Project%20Images/Analytics%20Dashboard.png)
