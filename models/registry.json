@@ -1,0 +1,286 @@
+{
+    "healthcare_predictor": [
+        {
+            "model_path": "models/healthcare_predictor_model.pkl",
+            "timestamp": "2024-11-21 17:05:33",
+            "metrics": {
+                "accuracy": 0.0,
+                "report": {
+                    " \"temperature\": 37.0}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 38.7}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 0.0
+                    },
+                    "accuracy": 0.0,
+                    "macro avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    }
+                }
+            },
+            "parameters": {
+                "n_estimators": 100,
+                "max_depth": 10,
+                "min_samples_split": 2,
+                "min_samples_leaf": 1,
+                "random_state": 42
+            },
+            "status": "active"
+        },
+        {
+            "model_path": "models/healthcare_predictor_model.pkl",
+            "timestamp": "2024-11-21 17:12:33",
+            "metrics": {
+                "accuracy": 0.0,
+                "report": {
+                    " \"temperature\": 37.0}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 37.2}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 38.9}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 0.0
+                    },
+                    "accuracy": 0.0,
+                    "macro avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    }
+                }
+            },
+            "parameters": {
+                "n_estimators": 100,
+                "max_depth": 10,
+                "min_samples_split": 2,
+                "min_samples_leaf": 1,
+                "random_state": 42
+            },
+            "status": "active"
+        },
+        {
+            "model_path": "models/healthcare_predictor_model.pkl",
+            "timestamp": "2024-11-21 17:15:25",
+            "metrics": {
+                "accuracy": 0.0,
+                "report": {
+                    " \"temperature\": 37.0}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 37.2}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 38.9}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 0.0
+                    },
+                    "accuracy": 0.0,
+                    "macro avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    }
+                }
+            },
+            "parameters": {
+                "n_estimators": 100,
+                "max_depth": 10,
+                "min_samples_split": 2,
+                "min_samples_leaf": 1,
+                "random_state": 42
+            },
+            "status": "active"
+        },
+        {
+            "model_path": "models/healthcare_predictor_model.pkl",
+            "timestamp": "2024-11-21 17:15:51",
+            "metrics": {
+                "accuracy": 0.0,
+                "report": {
+                    " \"temperature\": 37.0}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 37.2}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 38.9}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 0.0
+                    },
+                    "accuracy": 0.0,
+                    "macro avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    }
+                }
+            },
+            "parameters": {
+                "n_estimators": 100,
+                "max_depth": 10,
+                "min_samples_split": 2,
+                "min_samples_leaf": 1,
+                "random_state": 42
+            },
+            "status": "active"
+        },
+        {
+            "model_path": "models/healthcare_predictor_model.pkl",
+            "timestamp": "2024-11-21 17:20:02",
+            "metrics": {
+                "accuracy": 0.0,
+                "report": {
+                    " \"temperature\": 37.0}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 37.2}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 38.9}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 0.0
+                    },
+                    "accuracy": 0.0,
+                    "macro avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    }
+                }
+            },
+            "parameters": {
+                "n_estimators": 100,
+                "max_depth": 10,
+                "min_samples_split": 2,
+                "min_samples_leaf": 1,
+                "random_state": 42
+            },
+            "status": "active"
+        },
+        {
+            "model_path": "models/healthcare_predictor_model.pkl",
+            "timestamp": "2024-11-21 17:20:51",
+            "metrics": {
+                "accuracy": 0.0,
+                "report": {
+                    " \"temperature\": 37.0}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 37.2}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 1.0
+                    },
+                    " \"temperature\": 38.9}": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 0.0
+                    },
+                    "accuracy": 0.0,
+                    "macro avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1-score": 0.0,
+                        "support": 2.0
+                    }
+                }
+            },
+            "parameters": {
+                "n_estimators": 100,
+                "max_depth": 10,
+                "min_samples_split": 2,
+                "min_samples_leaf": 1,
+                "random_state": 42
+            },
+            "status": "active"
+        }
+    ]
+}

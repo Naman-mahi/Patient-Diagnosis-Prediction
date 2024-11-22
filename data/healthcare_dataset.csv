@@ -1,0 +1,41 @@
+Patient ID,Age,Gender,Symptoms,Diagnosis,Vital Signs,Lab Results
+P001,45,M,"fever,cough,fatigue",COVID-19,{"blood_pressure": "120/80", "temperature": 38.5},{"wbc_count": 11000, "crp": 40}
+P002,62,F,"shortness_of_breath,fatigue",Heart Disease,{"blood_pressure": "150/95", "temperature": 37.0},{"wbc_count": 9000, "crp": 15}
+P003,35,M,"fever,body_ache,loss_of_taste",COVID-19,{"blood_pressure": "110/75", "temperature": 39.0},{"wbc_count": 12000, "crp": 45}
+P004,28,F,"cough,fever",Influenza,{"blood_pressure": "118/78", "temperature": 38.2},{"wbc_count": 10500, "crp": 20}
+P005,53,M,"shortness_of_breath,fatigue,body_ache",Pneumonia,{"blood_pressure": "135/88", "temperature": 38.7},{"wbc_count": 13500, "crp": 60}
+P006,71,F,"fever,shortness_of_breath,fatigue",Pneumonia,{"blood_pressure": "145/92", "temperature": 38.9},{"wbc_count": 14200, "crp": 55}
+P007,42,M,"cough,loss_of_taste,fever",COVID-19,{"blood_pressure": "125/82", "temperature": 38.4},{"wbc_count": 10800, "crp": 42}
+P008,33,F,"body_ache,fatigue",Influenza,{"blood_pressure": "115/75", "temperature": 37.8},{"wbc_count": 9500, "crp": 18}
+P009,58,M,"shortness_of_breath,cough",Heart Disease,{"blood_pressure": "155/98", "temperature": 37.2},{"wbc_count": 9200, "crp": 22}
+P010,49,F,"fever,body_ache,fatigue",COVID-19,{"blood_pressure": "122/80", "temperature": 38.8},{"wbc_count": 12500, "crp": 48}
+P011,67,M,"shortness_of_breath,fatigue,chest_pain",Heart Disease,{"blood_pressure": "160/95", "temperature": 37.1},{"wbc_count": 8800, "crp": 25}
+P012,31,F,"fever,cough,loss_of_taste",COVID-19,{"blood_pressure": "115/75", "temperature": 38.6},{"wbc_count": 11500, "crp": 38}
+P013,44,M,"fever,body_ache,headache",Influenza,{"blood_pressure": "120/80", "temperature": 38.3},{"wbc_count": 9800, "crp": 15}
+P014,59,F,"shortness_of_breath,cough,fever",Pneumonia,{"blood_pressure": "130/85", "temperature": 38.8},{"wbc_count": 14500, "crp": 65}
+P015,36,M,"fever,loss_of_taste,fatigue",COVID-19,{"blood_pressure": "118/76", "temperature": 38.7},{"wbc_count": 11200, "crp": 44}
+P016,72,F,"chest_pain,shortness_of_breath",Heart Disease,{"blood_pressure": "165/98", "temperature": 37.3},{"wbc_count": 8500, "crp": 30}
+P017,29,M,"cough,fever,sore_throat",Influenza,{"blood_pressure": "112/74", "temperature": 38.1},{"wbc_count": 10200, "crp": 12}
+P018,51,F,"fever,cough,shortness_of_breath",Pneumonia,{"blood_pressure": "128/84", "temperature": 38.9},{"wbc_count": 13800, "crp": 58}
+P019,38,M,"fever,loss_of_taste,cough",COVID-19,{"blood_pressure": "121/79", "temperature": 38.5},{"wbc_count": 11800, "crp": 41}
+P020,64,F,"fatigue,chest_pain,shortness_of_breath",Heart Disease,{"blood_pressure": "158/94", "temperature": 37.2},{"wbc_count": 8900, "crp": 28}
+P021,27,M,"fever,body_ache,headache",Influenza,{"blood_pressure": "116/76", "temperature": 38.4},{"wbc_count": 9600, "crp": 14}
+P022,55,F,"cough,fever,shortness_of_breath",Pneumonia,{"blood_pressure": "132/86", "temperature": 38.6},{"wbc_count": 14800, "crp": 62}
+P023,41,M,"fever,loss_of_taste,fatigue",COVID-19,{"blood_pressure": "119/77", "temperature": 38.9},{"wbc_count": 12200, "crp": 46}
+P024,69,F,"chest_pain,fatigue,shortness_of_breath",Heart Disease,{"blood_pressure": "162/96", "temperature": 37.4},{"wbc_count": 8700, "crp": 32}
+P025,32,M,"cough,fever,sore_throat",Influenza,{"blood_pressure": "114/75", "temperature": 38.2},{"wbc_count": 10100, "crp": 16}
+P026,57,F,"shortness_of_breath,fever,cough",Pneumonia,{"blood_pressure": "138/88", "temperature": 38.8},{"wbc_count": 13200, "crp": 54}
+P027,43,M,"fever,loss_of_taste,body_ache",COVID-19,{"blood_pressure": "123/81", "temperature": 38.6},{"wbc_count": 11600, "crp": 43}
+P028,66,F,"shortness_of_breath,chest_pain",Heart Disease,{"blood_pressure": "156/92", "temperature": 37.1},{"wbc_count": 9100, "crp": 26}
+P029,30,M,"fever,headache,body_ache",Influenza,{"blood_pressure": "117/77", "temperature": 38.3},{"wbc_count": 9900, "crp": 13}
+P030,52,F,"fever,cough,shortness_of_breath",Pneumonia,{"blood_pressure": "134/87", "temperature": 38.7},{"wbc_count": 14100, "crp": 59}
+P031,37,M,"fever,loss_of_taste,cough",COVID-19,{"blood_pressure": "120/78", "temperature": 38.8},{"wbc_count": 11900, "crp": 45}
+P032,61,F,"chest_pain,shortness_of_breath,fatigue",Heart Disease,{"blood_pressure": "159/95", "temperature": 37.3},{"wbc_count": 8800, "crp": 29}
+P033,34,M,"fever,sore_throat,cough",Influenza,{"blood_pressure": "115/76", "temperature": 38.1},{"wbc_count": 10300, "crp": 15}
+P034,54,F,"shortness_of_breath,fever,cough",Pneumonia,{"blood_pressure": "136/89", "temperature": 38.9},{"wbc_count": 13900, "crp": 57}
+P035,40,M,"fever,loss_of_taste,fatigue",COVID-19,{"blood_pressure": "122/80", "temperature": 38.7},{"wbc_count": 11700, "crp": 42}
+P036,68,F,"shortness_of_breath,chest_pain",Heart Disease,{"blood_pressure": "161/97", "temperature": 37.2},{"wbc_count": 8600, "crp": 31}
+P037,28,M,"fever,body_ache,headache",Influenza,{"blood_pressure": "113/74", "temperature": 38.2},{"wbc_count": 9700, "crp": 14}
+P038,56,F,"cough,fever,shortness_of_breath",Pneumonia,{"blood_pressure": "133/86", "temperature": 38.8},{"wbc_count": 14300, "crp": 61}
+P039,39,M,"fever,loss_of_taste,cough",COVID-19,{"blood_pressure": "121/79", "temperature": 38.5},{"wbc_count": 12100, "crp": 44}
+P040,63,F,"chest_pain,fatigue,shortness_of_breath",Heart Disease,{"blood_pressure": "157/93", "temperature": 37.4},{"wbc_count": 8900, "crp": 27}
