@@ -28,20 +28,20 @@ This project is a machine learning-based healthcare prediction system that helps
 
 ## Project Structure
 healthcare_predictor/
-├── app.py # Streamlit web application
-├── main.py # Main ML model training script
-├── config.py # Configuration settings
-├── utils.py # Utility functions
-├── requirements.txt # Project dependencies
-├── setup.py # Setup script
-├── Dockerfile # Docker configuration
+├── app.py                    # Streamlit web application for user interface
+├── main.py                   # Main script for model training and evaluation
+├── config.py                 # Configuration and environment settings
+├── utils.py                  # Helper functions and utilities
+├── requirements.txt          # Python package dependencies
+├── setup.py                  # Installation and setup configuration
+├── Dockerfile               # Container configuration for deployment
 ├── data/
-│ ├── healthcare_dataset.csv # Training dataset
-│ └── data_validator.py # Data validation
+│   ├── healthcare_dataset.csv  # Training and validation dataset
+│   └── data_validator.py       # Data validation and preprocessing
 ├── models/
-│ ├── model_evaluation.py # Model evaluation tools
-│ └── model_registry.py # Model version control
-└── logs/ # Application logs
+│   ├── model_evaluation.py     # Model performance evaluation tools
+│   └── model_registry.py       # Model versioning and management
+└── logs/                     # Application and error logs
 
 
 ## Installation
@@ -126,7 +126,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Open source community
 
 ## Contact
-Naman Mahi - [@Naman-mahi](https://github.com/Naman-mahi)
+Sunil K. Khobragade - [@Naman-mahi](https://github.com/Naman-mahi)
 Project Link: [https://github.com/Naman-mahi/Patient-Diagnosis-Prediction](https://github.com/Naman-mahi/Patient-Diagnosis-Prediction)
 
 ## Future Enhancements
@@ -138,7 +138,19 @@ Project Link: [https://github.com/Naman-mahi/Patient-Diagnosis-Prediction](https
 - Enhanced visualization features
 
 ## Screenshots
-[Add screenshots of your application here]
+
+### Healthcare Prediction System
+![Healthcare Prediction System](heathcare%20Predication%20System.png)
+
+### Prediction History
+![Prediction History](Prediction%20History.png)
+
+### Common Symptoms Analysis
+![Common Symptoms](Common%20Symptoms.png)
+
+### Analytics Dashboard
+![Analytics Dashboard](Analytics%20Dashboard.png)
+
 
 ## Documentation
 For detailed documentation, please visit the [Wiki](https://github.com/Naman-mahi/Patient-Diagnosis-Prediction/wiki)
